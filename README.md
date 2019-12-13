@@ -15,3 +15,14 @@ Enter the number of Hidden Compartment (starting from 1 to END): 5
 
 Output: 
 Minimum number of Hops to reach his thesis paper: 2
+
+INPUT:
+
+Enter number of compartments: 10
+
+Enter all the compartments threshold : 1 4 2 3 1 4 2 3 1 2
+
+Enter the number of Hidden Compartment (starting from 1 to END): 10
+
+Output: 
+Minimum number of Hops to reach his thesis paper: 3
