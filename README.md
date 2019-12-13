@@ -6,8 +6,11 @@ One day a mathematician by name Ramakrishna was travelling on a Train which is f
 Write a program which takes number of compartments as inputs, takes JETPACK threshold values for each compartment, and the value of the compartment where the thesis paper is hidden, and return the minimum hops Ramkrishna have to make to find his thesis paper.
 
 INPUT:
+
 Enter number of compartments: 5
+
 Enter all the compartments threshold : 2 3 1 1 3
+
 Enter the number of Hidden Compartment (starting from 1 to END): 5
 
 Output: 
